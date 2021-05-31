@@ -1,0 +1,4 @@
+rootProject.name = "ru.mirea. kuzmin. practice1"
+include ':app'
+include ':layouttype'
+include ':clickbuttons'
